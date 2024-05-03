@@ -1,7 +1,7 @@
-"ADFFalperyldz"*\
-"ASDyildiz"*\
-"DASicharmandear"*\
-"ASDl"*\
-"DTd"*\
-"TYi"*\
+"ADFFalperyldz\n" \ 
+"ASDyildiz\n" \
+"DASicharmandear\n" \
+"ASDl\n" \
+"DTd\n "\
+"TYi\n" \
 "-----END CERTIFICATE-----";
