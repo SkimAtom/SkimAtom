@@ -1,7 +1,7 @@
-"ADFF\n" \
-"ASD\n" \
-"DAS\n" \
-"ASD\n" \
-"DT\n" \
-"TY\n" \
+"ADFF" \\
+"ASD" \\
+"DAS" \\
+"ASD" \\
+"DT" \\
+"TY" \\
 "-----END CERTIFICATE-----";
