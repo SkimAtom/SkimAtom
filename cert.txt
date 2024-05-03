@@ -1,7 +1,7 @@
-"ADFFalper" *\
-"ASDy" *\
-"DASi" *\
-"ASDl" *\
-"DTd" *\
-"TYi" *\
+"ADFFalper"* \
+"ASDy"* \
+"DASi"* \
+"ASDl"* \
+"DTd"* \
+"TYi"* \
 "-----END CERTIFICATE-----";
